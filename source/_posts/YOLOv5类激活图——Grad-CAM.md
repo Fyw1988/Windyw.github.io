@@ -1,3 +1,7 @@
+---
+title: Grad CAM
+abbrlink: 1
+---
 之前想画一下YOLOv5的累激活图，但是尝试了半天都没成功，偶然发现YOLOv5的issue中有人已经实现了支持画网络某一层的gram-cam，只是暂时好像还没有并入YOLOv5项目中：[Add GradCAM integration](https://github.com/ultralytics/yolov5/pull/10649)
 
 #### 1. 使用方法
