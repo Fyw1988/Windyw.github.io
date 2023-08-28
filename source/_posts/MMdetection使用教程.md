@@ -1,6 +1,7 @@
 ---
 title: MMdetection
 abbrlink: 2
+cover: \img\wallhaven-gpm233.jpg
 ---
 MMDetection是针对目标检测任务推出的一个开源项目，它基于Pytorch实现了大量的目标检测算法，把数据集构建、模型搭建、训练策略等过程都封装成了一个个模块，通过模块调用的方式，我们能够以很少的代码量实现一个新算法，大大提高了代码复用率。本文记录一下关于MMdetection的使用方法，可能比较白话，专业的可以去看下面的教程：
 [MMDetection框架入门教程（完全版）](https://blog.csdn.net/qq_16137569/article/details/121316235)
