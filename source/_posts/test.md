@@ -1,8 +1,8 @@
 ---
 title: test
-date: 2023-08-29 15:14:27
+date: 2023-08-29 15:26:01
 tags:
-typora-root-url: test
 ---
 
-![image-20230829151446047](/image-20230829151446047.png)
+![image-20230829152616664](test/image-20230829152616664.png)
+
