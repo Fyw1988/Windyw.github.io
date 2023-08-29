@@ -1,10 +1,8 @@
 ---
-typora-root-url: test
-abbrlink: '0'
-date: 2023-08-29 14:58:20
-title:
+title: test
+date: 2023-08-29 15:14:27
 tags:
+typora-root-url: test
 ---
 
-![image-20230829150017115](/image-20230829150017115.png)
-
+![image-20230829151446047](/image-20230829151446047.png)
